@@ -1,0 +1,7 @@
+kagglehub
+wandb
+datasets
+transformers
+torch
+torchaudio
+pandas
